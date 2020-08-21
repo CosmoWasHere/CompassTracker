@@ -1,0 +1,9 @@
+main: me.cosmo.compasstracker.CompassTracker
+name: CompassTracker
+author: Cosmo
+version: 0.1
+api-version: 1.15
+commands:
+  hunter:
+    description: Add a player to hunters list, who will spawn with compasses
+    usage: /hunter <username>
